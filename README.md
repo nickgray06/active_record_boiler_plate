@@ -68,4 +68,4 @@ end
 1. Create seeds in db/seeds.rb and run `rake db:seed`
 1. Now can put a pry in environment.rb to run <ModelName>.all and see your seeds.
 
-Make sure your models inherit from `ActiveRecord::Base`
+Make sure your models inherit from `ActiveRecord::Base`# Potions_and_Lotions
